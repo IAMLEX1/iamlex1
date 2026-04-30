@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lex, an <a href="https://linkedin.com/in/lex-mwesiga-348b34145">IAM & Cloud security Engineer</a>☺</h1>
+<h1>Hello, I'm Alex,  <a href="https://linkedin.com/in/lex-mwesiga-348b34145">IAM & Cloud security Engineer </a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
