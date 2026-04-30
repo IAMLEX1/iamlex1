@@ -1,21 +1,35 @@
-# Hello, I'm Alex – IAM & Cloud Security Engineer
+# 👋 Hello, I'm Alex – IAM & Cloud Security Engineer
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+🔐 AWS IAM | Azure Entra ID | CyberArk  
+☁️ Identity Lifecycle | Least Privilege | RBAC | MFA  
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+---
 
-<h2>🤳Connect with me:</h2>
+## 🚀 About Me
+I am building hands-on experience in Identity and Access Management (IAM) and Cloud Security.  
+My focus is on securing access to systems, managing user identities, and enforcing least privilege across AWS and Azure environments.
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://www.linkedin.com/in/lex-mwesiga-348b34145/
+## 🔥 Featured Projects
+
+### 🔐 IAM & Identity Security
+- AWS IAM Lab (Users, Groups, Roles, MFA, Policy Simulator)
+- Azure Entra ID (User Lifecycle – Joiner, Mover, Leaver)
+- CyberArk Privileged Access Lifecycle
+
+### ☁️ Cloud & Infrastructure
+- Active Directory in Azure VMs (Domain setup, user management)
+- Network Security Groups (NSGs) and traffic inspection
+- VPN Remote Access Configuration
+
+---
+
+## 🛠️ Tools & Technologies
+AWS | Azure | IAM | Entra ID | CyberArk  
+Active Directory | Networking | Linux  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn:https://www.linkedin.com/in/lex-mwesiga-348b34145/
