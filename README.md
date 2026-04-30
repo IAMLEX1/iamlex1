@@ -4,8 +4,8 @@
 ☁️ Identity Lifecycle | Least Privilege | RBAC |ABAC| MFA  
 
 ## 🚀 About Me
-I am building hands-on experience in Identity and Access Management (IAM) and Cloud Security.  
-My focus is on securing access to systems, managing user identities, and enforcing least privilege across AWS and Azure environments.
+I am building hands-on experience in Identity and Access Management (IAM) and Cloud Security.
+Focused on securing access, managing user identities, and enforcing least privilege across AWS, Azure (Entra ID), and privileged access tools like CyberArk.
 
 ## 🔥 Featured Projects
 
@@ -47,7 +47,7 @@ My focus is on securing access to systems, managing user identities, and enforci
 - Simulated a secure enterprise IAM environment in AWS focusing on access control, monitoring, and identity security.
 
 ## 🛠️ Tools & Technologies
-AWS (IAM, S3) | Azure (Entra ID) | CyberArk  
+AWS (IAM,EC2, S3) | Azure (Entra ID) | CyberArk  
 Active Directory | Networking | Linux
 
 ## 📫 Connect With Me
