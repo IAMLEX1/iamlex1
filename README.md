@@ -14,21 +14,32 @@ My focus is on securing access to systems, managing user identities, and enforci
 ## 🔥 Featured Projects
 
 ### 🔐 IAM & Identity Security
-- AWS IAM Lab (Users, Groups, Roles, MFA, Policy Simulator)
-- Azure Entra ID (User Lifecycle – Joiner, Mover, Leaver)
+- AWS IAM Lab
+  - Implemented least privilege using IAM policies
+  - Configured MFA for secure access
+  - Tested permissions using IAM Policy Simulator
+  ----
+  
+  - Azure Entra ID (User Lifecycle – Joiner, Mover, Leaver)
 - CyberArk Privileged Access Lifecycle
 
 ### ☁️ Cloud & Infrastructure
-- Active Directory in Azure VMs (Domain setup, user management)
+- Deployed Active Directory in Azure VMs
+  - Managed users and group-based access control
+  - Simulated real-world enterprise identity environment
 - Network Security Groups (NSGs) and traffic inspection
 - VPN Remote Access Configuration
 
----
+- ## 🚀 Highlight Project
+### 🔐 Secure AWS IAM Environment
+- Designed IAM structure with users, groups, and roles
+- Enforced least privilege access policies
+- Enabled MFA for all users
+- Monitored activity using CloudTrail
 
 ## 🛠️ Tools & Technologies
-AWS | Azure | IAM | Entra ID | CyberArk  
-Active Directory | Networking | Linux  
-
+AWS (IAM, S3) | Azure (Entra ID) | CyberArk  
+Active Directory | Networking | Linux
 ---
 
 ## 📫 Connect With Me
