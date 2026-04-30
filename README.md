@@ -3,13 +3,9 @@
 🔐 AWS IAM | Azure Entra ID | CyberArk  
 ☁️ Identity Lifecycle | Least Privilege | RBAC |ABAC| MFA  
 
----
-
 ## 🚀 About Me
 I am building hands-on experience in Identity and Access Management (IAM) and Cloud Security.  
 My focus is on securing access to systems, managing user identities, and enforcing least privilege across AWS and Azure environments.
-
----
 
 ## 🔥 Featured Projects
 
@@ -18,7 +14,6 @@ My focus is on securing access to systems, managing user identities, and enforci
   - Implemented least privilege using IAM policies
   - Configured MFA for secure access
   - Tested permissions using IAM Policy Simulator
-  ----
   
   - Azure Entra ID
    - Managed onboarding, role changes, and offboarding
@@ -33,12 +28,11 @@ My focus is on securing access to systems, managing user identities, and enforci
 
 ### ☁️ Cloud & Infrastructure
 - Deployed Active Directory in Azure VMs
-  - Managed users and group-based access control
-  - Simulated real-world enterprise identity environment
+- Managed users and group-based access control
+- Simulated real-world enterprise identity environment
 - Network Security Groups (NSGs) and traffic inspection
 - VPN Remote Access Configuration
-
----
+- Secured AWS EC2 instance using security groups, IAM roles, and monitoring tools
 
 ## 🚀 Highlight Project
 
@@ -49,12 +43,12 @@ My focus is on securing access to systems, managing user identities, and enforci
 - Monitored activity using CloudTrail
 - Tested access using IAM Policy Simulator
 - Implemented role-based access control (RBAC)
-- Implemented attribute-based access control (ABAC) using IAM tags
+- Implemented attribute-based access control (ABAC) using IAM tags)
+- Simulated a secure enterprise IAM environment in AWS focusing on access control, monitoring, and identity security.
 
 ## 🛠️ Tools & Technologies
 AWS (IAM, S3) | Azure (Entra ID) | CyberArk  
 Active Directory | Networking | Linux
----
 
 ## 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/lex-mwesiga-348b34145/
