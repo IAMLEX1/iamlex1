@@ -20,8 +20,16 @@ My focus is on securing access to systems, managing user identities, and enforci
   - Tested permissions using IAM Policy Simulator
   ----
   
-  - Azure Entra ID (User Lifecycle – Joiner, Mover, Leaver)
-- CyberArk Privileged Access Lifecycle
+  - Azure Entra ID
+ - Managed onboarding, role changes, and offboarding
+  - Applied Conditional Access with MFA
+  - Implemented Privileged Identity Management (PIM) for just-in-time admin access
+  - Configured eligible roles and monitored activation using audit logs
+  - 
+ - CyberArk Privileged Access Management
+  - Onboarded privileged accounts into secure vault
+  - Configured access controls for privileged users
+  - Monitored privileged sessions and audit logs
 
 ### ☁️ Cloud & Infrastructure
 - Deployed Active Directory in Azure VMs
