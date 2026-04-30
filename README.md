@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Alex – IAM & Cloud Security Engineer
 
 🔐 AWS IAM | Azure Entra ID | CyberArk  
-☁️ Identity Lifecycle | Least Privilege | RBAC | MFA  
+☁️ Identity Lifecycle | Least Privilege | RBAC |ABAC| MFA  
 
 ---
 
