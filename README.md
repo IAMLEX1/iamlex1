@@ -1,4 +1,4 @@
-# Hi, I'm Lex – IAM & Cloud Security Engineer
+# Hi, I'm Alex – IAM & Cloud Security Engineer
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
