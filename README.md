@@ -30,12 +30,14 @@ My focus is on securing access to systems, managing user identities, and enforci
 - Network Security Groups (NSGs) and traffic inspection
 - VPN Remote Access Configuration
 
-- ## 🚀 Highlight Project
 ### 🔐 Secure AWS IAM Environment
 - Designed IAM structure with users, groups, and roles
 - Enforced least privilege access policies
 - Enabled MFA for all users
 - Monitored activity using CloudTrail
+- Tested access using IAM Policy Simulator
+- Implemented role-based access control (RBAC)
+- Implemented attribute-based access control (ABAC) using IAM tags
 
 ## 🛠️ Tools & Technologies
 AWS (IAM, S3) | Azure (Entra ID) | CyberArk  
