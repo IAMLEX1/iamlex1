@@ -1,54 +1,52 @@
-# 👋 Hello, I'm Alex – IAM & Cloud Security Engineer
+👋 Hello, I'm Alex — IAM & Cloud Security Engineer
 
-🔐 AWS IAM | Azure Entra ID | CyberArk  
-☁️ Identity Lifecycle | Least Privilege | RBAC |ABAC| MFA  
+🔐 AWS | Azure (Entra ID) | CyberArk  
+🛡️ Identity Lifecycle | Least Privilege | RBAC | ABAC | MFA
+
 
 ## 🚀 About Me
-I am building hands-on experience in Identity and Access Management (IAM) and Cloud Security.
-Focused on securing access, managing user identities, and enforcing least privilege across AWS, Azure (Entra ID), and privileged access tools like CyberArk.
+I design and implement secure identity and cloud environments focused on access control, least privilege, and threat detection. 
+
+Hands-on experience across AWS, Azure (Entra ID), and CyberArk, building real-world security workflows including identity lifecycle management, privileged access control, and secure cloud infrastructure.
 
 ## 🔥 Featured Projects
 
 ### 🔐 IAM & Identity Security
-- AWS IAM Lab
-  - Implemented least privilege using IAM policies
-  - Configured MFA for secure access
-  - Tested permissions using IAM Policy Simulator
+- Designed IAM environments using RBAC and ABAC across AWS and Azure
+- Implemented least privilege access using IAM policies and role-based controls
+- Strengthened authentication security by enforcing MFA and Conditional Access policies
+- Managed full identity lifecycle (Joiner–Mover–Leaver)
+- Tested and validated permissions using IAM Policy Simulator
   
-  - Azure Entra ID
-   - Managed onboarding, role changes, and offboarding
-   - Applied Conditional Access with MFA
-   - Implemented Privileged Identity Management (PIM) for just-in-time admin access
-   - Configured eligible roles and monitored activation using audit logs
-   
- - CyberArk Privileged Access Management
-    - Onboarded privileged accounts into secure vault
-    - Configured access controls for privileged users
-    - Monitored privileged sessions and audit logs
+  
+### 🔐 Privileged Access [CyberArk]
+- Onboarded privileged accounts into CyberArk vault (Safes)
+- Applied access controls and session management for sensitive systems
+- Simulated enterprise PAM workflows including onboarding, rotation, and offboarding
+- Monitored privileged activity and audit logs for compliance and security
+
 
 ### ☁️ Cloud & Infrastructure
-- Deployed Active Directory in Azure VMs
-- Managed users and group-based access control
-- Simulated real-world enterprise identity environment
-- Network Security Groups (NSGs) and traffic inspection
-- VPN Remote Access Configuration
-- Secured AWS EC2 instance using security groups, IAM roles, and monitoring tools
+- Secured AWS EC2 environment using security groups, IAM roles, and GuardDuty
+- Implemented threat detection and monitoring with CloudTrail and EventBridge
+- Built VPN-based remote access lab using Azure VM for secure connectivity testing
+- Deployed Active Directory environment and managed users, groups, and GPOs
+- Applied network security controls (NSGs, NACLs) and traffic filtering
 
 ## 🚀 Highlight Project
 
 ### 🔐 Secure AWS IAM Environment
-- Designed IAM structure with users, groups, and roles
-- Enforced least privilege access policies
-- Enabled MFA for all users
-- Monitored activity using CloudTrail
-- Tested access using IAM Policy Simulator
-- Implemented role-based access control (RBAC)
-- Implemented attribute-based access control (ABAC) using IAM tags)
-- Simulated a secure enterprise IAM environment in AWS focusing on access control, monitoring, and identity security.
+- Designed and implemented IAM architecture using users, groups, and roles
+- Enforced least privilege access policies across multiple resources
+- Secured identities by enabling MFA for all users
+- Implemented RBAC and ABAC to control access at scale
+- Monitored and audited activity using AWS CloudTrail
+- Validated and troubleshot permissions using IAM Policy Simulator
+- Simulated a real-world enterprise IAM environment focused on access control, monitoring, and security enforcement
 
+  
 ## 🛠️ Tools & Technologies
-AWS (IAM,EC2, S3) | Azure (Entra ID) | CyberArk  
-Active Directory | Networking | Linux
+AWS (IAM, EC2, S3, CloudTrail, GuardDuty) | Azure (Entra ID, PIM, Conditional Access) | CyberArk | Active Directory | Networking | Linux
 
 ## 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/lex-mwesiga-348b34145/
