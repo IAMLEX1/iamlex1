@@ -1,53 +1,78 @@
-👋 Hello, I'm Alex — IAM & Cloud Security Engineer
+👋 Hello, I’m Alex — IAM & Cloud Security Engineer
 
 🎓 Certifications:
-SC-300 | Security+ | CyberArk Defender | Sentry | AWS Security Specialty (In Progress)
+SC-300 | CompTIA Security+ | CyberArk Defender | CyberArk Sentry | AWS Security Specialty (In Progress)
 
-🛠️ AWS | Azure (Entra ID) | CyberArk  
-🛡️ Identity Lifecycle | Least Privilege | RBAC | ABAC | MFA
+🛠️ Technologies:
+AWS | Azure (Entra ID) | CyberArk
 
-## 🚀 About Me
-I design and implement secure identity and cloud environments focused on access control, least privilege, and threat detection. 
+🔐 Core Skills:
+Identity Lifecycle | Least Privilege | RBAC | ABAC | MFA | SSO | SCP | Cloud Monitoring
 
-Hands-on experience across AWS, Azure (Entra ID), and CyberArk, building real-world security workflows including identity lifecycle management, privileged access control, and secure cloud infrastructure.
+⸻
 
-## 🔥 Featured Projects
+🚀 About Me
 
-### 🔐 IAM & Identity Security
-- Designed IAM environments using RBAC and ABAC across AWS and Azure
-- Implemented least privilege access using IAM policies and role-based controls
-- Strengthened authentication security by enforcing MFA and Conditional Access policies
-- Managed full identity lifecycle (Joiner–Mover–Leaver)
-- Tested and validated permissions using IAM Policy Simulator
-  
-  
-### 🔐 Privileged Access [CyberArk]
-- Onboarded privileged accounts into CyberArk vault (Safes)
-- Applied access controls and session management for sensitive systems
-- Simulated enterprise PAM workflows including onboarding, rotation, and offboarding
-- Monitored privileged activity and audit logs for compliance and security
+I am an IAM-focused cloud security professional with hands-on experience implementing and securing identity and access controls across AWS, Azure (Entra ID), and CyberArk.
 
+I have built and tested real-world security scenarios including identity lifecycle management (Joiner–Mover–Leaver), privileged access workflows, and multi-account cloud environments. My work focuses on enforcing least privilege, securing access to critical resources, and validating security controls through monitoring and logging.
 
-### ☁️ Cloud & Infrastructure
-- Secured AWS EC2 environment using security groups, IAM roles, and GuardDuty
-- Implemented threat detection and monitoring with CloudTrail and EventBridge
-- Built VPN-based remote access lab using Azure VM for secure connectivity testing
-- Deployed Active Directory environment and managed users, groups, and GPOs
-- Applied network security controls (NSGs, NACLs) and traffic filtering
+⸻
 
-## 🚀 Highlight Project
+🔥 Featured Projects
 
-### 🔐 Secure AWS IAM Environment
-- Designed and implemented IAM architecture using users, groups, and roles
-- Enforced least privilege access policies across multiple resources
-- Secured identities by enabling MFA for all users
-- Implemented RBAC and ABAC to control access at scale
-- Monitored and audited activity using AWS CloudTrail
-- Validated and troubleshot permissions using IAM Policy Simulator
-- Built and validated a real-world IAM environment simulating enterprise access control, monitoring, and security enforcement
-  
-## 🛠️ Tools & Technologies
-AWS (IAM, EC2, S3, CloudTrail, GuardDuty) | Azure (Entra ID, PIM, Conditional Access) | CyberArk | Active Directory | Networking | Linux
+🔐 IAM & Identity Security
+
+* Implemented RBAC and ABAC models in AWS and Azure to ensure controlled and scalable access across resources
+* Enforced least privilege access using IAM policies to reduce excessive permissions and limit unauthorized actions
+* Strengthened authentication security by enforcing MFA and Conditional Access policies to reduce account compromise risk
+* Managed identity lifecycle (Joiner–Mover–Leaver) including provisioning, access updates, and secure deprovisioning
+* Tested and validated permissions using IAM Policy Simulator to confirm correct access enforcement
+
+⸻
+
+🔐 Privileged Access (CyberArk)
+
+* Simulated onboarding of privileged accounts into CyberArk Vault (Safes) to centralize and secure credentials
+* Applied access controls and session monitoring to secure privileged sessions and improve audit visibility
+* Simulated enterprise PAM workflows including onboarding, password rotation, and offboarding
+* Monitored privileged activity and audit logs to support security and compliance tracking
+
+⸻
+
+☁️ Cloud & Infrastructure Security
+
+* Secured AWS EC2 environment using security groups, IAM roles, and GuardDuty to reduce exposure and detect threats
+* Configured CloudTrail and EventBridge to monitor and detect sensitive actions such as S3 deletions and IAM changes
+* Built VPN-based remote access lab using Azure VM to test secure connectivity and access control
+* Deployed Active Directory environment and managed users, groups, and GPOs to enforce centralized identity management
+* Applied network security controls using NSGs, NACLs, and traffic filtering to limit unauthorized network access
+
+⸻
+
+🚀 Highlight Project
+
+🔐 Secure AWS IAM Environment (Multi-Account)
+
+* Implemented IAM environment using users, groups, and roles to manage access across AWS resources
+* Enforced least privilege access policies across multiple services and accounts to reduce over-permissioned access
+* Enabled MFA for all users to strengthen authentication security
+* Implemented RBAC and ABAC to control access at scale across different resource types
+* Configured AWS Organizations and applied Service Control Policies (SCPs) to restrict unauthorized actions across accounts
+* Set up AWS IAM Identity Center (SSO) to centralize and simplify multi-account access management
+* Created cross-account IAM roles to enable secure access between accounts without sharing credentials
+* Configured CloudTrail and EventBridge to monitor and detect sensitive API activity in real time
+* Validated security controls by simulating real-world scenarios (access denied events, role assumption, policy enforcement)
+
+⸻
+
+🧰 Tools & Technologies
+
+AWS (IAM, EC2, S3, CloudTrail, EventBridge, Organizations, SCP, Identity Center)
+Azure (Entra ID, Conditional Access)
+CyberArk (Vault, Safes, PAM workflows)
+Active Directory | VPN | Networking (NSGs, NACLs)
+
 
 ## 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/lex-mwesiga-348b34145/
