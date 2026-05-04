@@ -44,8 +44,7 @@ Hands-on experience across AWS, Azure (Entra ID), and CyberArk, building real-wo
 - Implemented RBAC and ABAC to control access at scale
 - Monitored and audited activity using AWS CloudTrail
 - Validated and troubleshot permissions using IAM Policy Simulator
-- Simulated a real-world enterprise IAM environment focused on access control, monitoring, and security enforcement
-
+- Built and validated a real-world IAM environment simulating enterprise access control, monitoring, and security enforcement
   
 ## 🛠️ Tools & Technologies
 AWS (IAM, EC2, S3, CloudTrail, GuardDuty) | Azure (Entra ID, PIM, Conditional Access) | CyberArk | Active Directory | Networking | Linux
