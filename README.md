@@ -1,8 +1,10 @@
 👋 Hello, I'm Alex — IAM & Cloud Security Engineer
 
-🔐 AWS | Azure (Entra ID) | CyberArk  
-🛡️ Identity Lifecycle | Least Privilege | RBAC | ABAC | MFA
+🎓 Certifications:
+SC-300 | Security+ | CyberArk Defender | Sentry | AWS Security Specialty (In Progress)
 
+🛠️ AWS | Azure (Entra ID) | CyberArk  
+🛡️ Identity Lifecycle | Least Privilege | RBAC | ABAC | MFA
 
 ## 🚀 About Me
 I design and implement secure identity and cloud environments focused on access control, least privilege, and threat detection. 
