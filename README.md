@@ -1,4 +1,4 @@
-👋 Hello, I’m Alex — IAM & Cloud Security Engineer
+## Hello, I’m Alex — IAM & Cloud Security Engineer
 
 🎓 Certifications:
 SC-300 | CompTIA Security+ | CyberArk Defender | CyberArk Sentry | AWS Security Specialty (In Progress)
