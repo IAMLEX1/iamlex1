@@ -13,7 +13,7 @@ Identity Lifecycle | Least Privilege | RBAC | ABAC | MFA | SSO | SCP | Cloud Mon
 
 🚀 About Me
 
-I am an IAM-focused cloud security professional with hands-on experience implementing and securing identity and access controls across AWS, Azure (Entra ID), and CyberArk.
+I am an IAM-focused cloud security professional with hands-on experience implementing and securing identity and access controls across AWS, Azure (Entra ID,PIM), and CyberArk.
 
 I have built and tested real-world security scenarios including identity lifecycle management (Joiner–Mover–Leaver), privileged access workflows, and multi-account cloud environments. My work focuses on enforcing least privilege, securing access to critical resources, and validating security controls through monitoring and logging.
 
