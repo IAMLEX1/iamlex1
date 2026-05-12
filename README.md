@@ -33,6 +33,8 @@ I have built and tested real-world security scenarios including identity lifecyc
 
 🔐 Privileged Access (CyberArk)
 
+(https://github.com/IAMLEX1/CyberArk-PAM-Lifecycle-Lab)
+
 * Simulated onboarding of privileged accounts into CyberArk Vault (Safes) to centralize and secure credentials
 * Applied access controls and session monitoring to secure privileged sessions and improve audit visibility
 * Simulated enterprise PAM workflows including onboarding, password rotation, and offboarding
