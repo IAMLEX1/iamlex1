@@ -1,4 +1,4 @@
-## Hello, I’m Alex — IAM & Cloud Security Engineer
+## Hello, I’m Alex — IAM Engineer & Cloud Security 
 
 🎓 Certifications:
 SC-300 | CompTIA Security+ | CyberArk Defender | CyberArk Sentry | AWS Security Specialty (In Progress)
@@ -77,6 +77,8 @@ I have built and tested real-world security scenarios including identity lifecyc
 ## 🚀 Highlight Project
 
  Secure AWS IAM Environment (Multi-Account)
+
+- [Secure Multi-Account AWS Environment](https://github.com/IAMLEX1/secure-multi-account-aws-environment)
 
 - Implemented IAM environment using users, groups, and roles to manage access across AWS resources
 
